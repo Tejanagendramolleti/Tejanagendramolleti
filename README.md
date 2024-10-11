@@ -12,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejanagendramolleti&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejanagendramolleti&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight&quote="If%20you%20want%20to%20walk%20fast,%20walk%20alone.%20But%20if%20you%20want%20to%20walk%20far,%20walk%20together."&author=Ratan%20Tata)
 
 ### 🔝 Top Contributed Repo
